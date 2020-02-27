@@ -16,8 +16,6 @@
 - [x] Styled-Components
 - [x] Axios
 - [x] Reactotron
-- [x] Sentry
-- [x] Yup
 
 ## Autores
 
